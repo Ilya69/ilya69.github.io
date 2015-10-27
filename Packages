@@ -1,10 +1,38 @@
 Package: com.yourcompany.ilya
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: U-ILYA-SEXYMAN\Ilya
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.yourcompany.ilya_0.0.1-2_iphoneos-arm.deb
+Size: 3120
+Installed-Size: 101
+MD5sum: 80b8b9137931266b105c955e13ee7b06
+Description: An awesome MobileSubstrate tweak!
+Name: ilya
+Author: U-ILYA-SEXYMAN\Ilya
+
+Package: com.yourcompany.ilya
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: U-ILYA-SEXYMAN\Ilya
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ilya/com.yourcompany.ilya_0.0.1-3_iphoneos-arm.deb
+Size: 3120
+Installed-Size: 101
+MD5sum: cbf770d6dcba3cacfd917ec583bac2c8
+Description: An awesome MobileSubstrate tweak!
+Name: ilya
+Author: U-ILYA-SEXYMAN\Ilya
+
+Package: com.yourcompany.ilya
 Version: 0.0.1-1
 Section: Tweaks
 Maintainer: U-ILYA-SEXYMAN\Ilya
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/package.deb
+Filename: ilya/com.yourcompany.ilya_0.0.1-1_iphoneos-arm.deb
 Size: 3126
 Installed-Size: 101
 MD5sum: d12539c85865138803ead1c92a1bd3da
